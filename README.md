@@ -1,6 +1,6 @@
 # 🔐 Caesar Cipher (Python)
 
-A console-based **Caesar Cipher encryption and decryption tool** built using Python.  
+A console-based **Caesar Cipher Encryption and Decryption tool built using Python**.  
 This program allows users to encode or decode messages by shifting letters through the alphabet while preserving non-alphabet characters.
 
 ## 📌 Description
